@@ -31,6 +31,7 @@ The commands are really simple:
 * W/A/S/D: Move the player
 * W/A/S/D + Left Shift: Run
 * Walk/Run towards a big wall to automatically climb it
+* Hold left click and move mouse to move the player's camera
 
 ## Gameplay example
 
