@@ -43,7 +43,7 @@ This is an example that shows you how the game looks like. In this scene you can
 
 The climbing system is working as expected. In order to achieve it I learnt how to properly set and use root motion animations, those are really helpful when it comes to climb the last part of the tower/wall. Of course there are many other way to achive a good climbing system.
 
-There are few things that can be done better:
+There are few things that can be improved:
 * the ground detection should be done with a boxcast instead of a single raycast
 * when climbing the player sometimes is not directly facing the wall, so there is the opportunity to fix it - but there is already a minor fix for that in the code
 * better animations
